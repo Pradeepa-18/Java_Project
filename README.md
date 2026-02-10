@@ -1,2 +1,2 @@
 # Java_Project
-The Athletics Management System is designed to manage multiple tournaments, their associated sports events, and participating players in a structured and organized manner. The system follows a hierarchical relationship where a tournament contains multiple sports, and each sport consists of multiple players.
+This Java project is designed to demonstrate the practical application of object-oriented programming concepts using the Java programming language. The project focuses on organizing and managing data efficiently by applying core Java principles such as classes, objects, encapsulation, inheritance, polymorphism, and exception handling.
